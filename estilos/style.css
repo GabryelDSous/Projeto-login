@@ -93,15 +93,15 @@ div.campo > input{
 
 #ilogin{
     width: calc(100% - 45px);
-    transform: translateY(-6px);
     height: 100%;
     border-radius: 8px;
+    transform: translateY(-6px);
 }
 #isenha{
     width: calc(100% - 45px);
-    transform: translateY(-13px);
     height: 100%;
     border-radius: 8px;
+    transform: translateY(-13px);
 }
 form > input[type=submit]{
     display: block;
